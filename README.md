@@ -22,7 +22,7 @@ Design
 
 - Archana set up the GitHub repository for version control.
 - Archana developed the HTML, JS, and CSS for the website.
-- Karuna ensured the website is responsive to different screen sizes.
+- Karuna ensured the theme and effects and helped with css.
 
  Theme and Effects
 
